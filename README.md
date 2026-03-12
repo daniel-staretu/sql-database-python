@@ -2,6 +2,7 @@
 
 A Python MySQL wrapper built on `mysql-connector-python` that simplifies common database operations with a clean, consistent API.
 
+
 ## Features
 
 `DatabaseConnection` handles connection management, optional connection pooling, and exposes methods for every common database task. All credentials are loaded from a `.env` file.
