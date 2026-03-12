@@ -1,0 +1,23 @@
+# Environment variables (contains credentials)
+.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Distribution
+dist/
+build/
+*.egg-info/
